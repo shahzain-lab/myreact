@@ -8,8 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
          {
-        <h1>Hello world from ShahZain</h1>
+        <h1>Hello world from Shahzain</h1>
         }
+         <p> This is my first project on react.js</p>
       </header>
     </div>
   );
